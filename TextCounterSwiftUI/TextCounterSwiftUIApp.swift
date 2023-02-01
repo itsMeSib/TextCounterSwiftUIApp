@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct TextCounterSwiftUIApp: App {
+    let viewModel = WordCountViewModel()
     var body: some Scene {
         WindowGroup {
-            ContentView(viewModel: WordCountViewModel())
+            ContentView(viewModel: viewModel)
         }
     }
 }
