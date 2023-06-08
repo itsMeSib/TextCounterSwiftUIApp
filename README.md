@@ -1,6 +1,9 @@
 # TextCounterSwiftUIApp
 This is a sample app using Swift UI that takes Text as an input and show the count or words in it. 
 
+<h3>Buy Me A Coffee</h3>
+<a href="https://www.buymeacoffee.com/itsmesib" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <br/>
+
 <h1> Swift UI Word Count Project </h1>
 <p>
 This is a simple Swift UI project that takes user input in the form of text and displays the word count. It is a great way to get familiar with the basic concepts of Swift UI and learn how to build a simple one-screen application.
